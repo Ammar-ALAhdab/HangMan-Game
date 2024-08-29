@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" type="image/ico" href="icon.ico">
+	<title>Hangman Game</title>
+</head>
+
+<body>
+	<div class="container">
+		<div class="game-info">
+			<div class="game-name">
+				Hangman Game
+			</div>
+			<div class="attempts">
+			</div>
+			<div class="buttons">
+				<button class="arabic">العربية</button>
+				<button class="english">English</button>
+				<button class="hint">Hint</button>
+			</div>
+			<div class="category">
+				<span class="word-type">Word Form:</span> <span class="word"></span>
+			</div>
+		</div>
+		<hr>
+		<div class="row">
+			<p class="welcome">
+				Welcome In Hangman Game! </br>Hangman مرحبا بك في لعبة </br> Please Choose Your Language To Start </br>
+				من فضلك
+				اختر اللغة لبدأ اللعبة
+			</p>
+			<div class="hangman-draw">
+				<div class="the-draw">
+					<div class="the-stand"></div>
+					<div class="the-hang"></div>
+					<div class="the-rope"></div>
+					<div class="the-man">
+						<div class="head"></div>
+						<div class="body"></div>
+						<div class="hands"></div>
+						<div class="legs"></div>
+					</div>
+				</div>
+			</div>
+			<div class="letters"></div>
+		</div>
+		<hr>
+		<div class="letters-guess"></div>
+		<div class="about">Developed By: Ammar Rakan Al-Ahdab &copy;2022</br> Special Thanks For El-Zero Web Shcool
+		</div>
+	</div>
+	<audio id="success" src="audio/Correct Answer Sound Effect(MP3_320K).mp3" preload="auto"></audio>
+	<audio id="fail" src="audio/WrongBuzzer.mp3" preload="auto"></audio>
+	<audio id="hint" src="audio/Google Pixel Notification Sound Effect.mp3" preload="auto"></audio>
+	<audio id="win" src="audio/Winning-sound-effect(MP3_320K).mp3" preload="auto"></audio>
+	<audio id="lose" src="audio/FAIL - SOUND EFFECT(MP3_160K).mp3" preload="auto"></audio>
+	<script src="main.js"></script>
+</body>
+
+</html>

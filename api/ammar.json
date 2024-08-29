@@ -1,0 +1,141 @@
+{ "wordsEN":
+  {  "programming" : [
+  "pyathon",
+  "java",
+  "javascript",
+  "go",
+  "php",
+  "c",
+  "c++",
+  "c#",
+  "visual basic",
+  "kotlin",
+  "swift",
+  "dart",
+  "pascal",
+  "fortarn"
+],
+
+"Arabin Countries": [
+  "Syria",
+  "Palestine",
+  "Yaman",
+  "Egypt",
+  "Qatar",
+  "Iraq",
+  "Lebanon",
+  "Kuwait",
+  "Algeria",
+  "Sudan",
+  "Tunisia",
+  "Saudi Arabia",
+  "Somalia",
+  "Morocco",
+  "Libya",
+  "Jordan",
+  "United Arab of Emirates",
+  "Mauritania",
+  "Oman",
+  "Qatar",
+  "Jubbuti",
+  "Baharain",
+  "Union of Comoros"
+],
+
+"Mobile Phone": [
+  "samsung",
+  "apple",
+  "xiaomi",
+  "huawei",
+  "infinex",
+  "oppo",
+  "vivo",
+  "sony"
+],
+
+"Syrian Cities": [
+  "Homs",
+  "Aleppo",
+  "Damascus",
+  "Hama",
+  "Latakia",
+  "Tartous",
+  "Daraa",
+  "Idlib",
+  "Suwayda",
+  "Quneitra",
+  "Deir Zor",
+  "Raqqah",
+  "Al Hasakah"
+]
+}
+, "wordsAR" : {
+  "لغات البرمجة": [
+    "بايثون",
+    "جافا",
+    "جافاسكربت",
+    "غو",
+    "بي اتش بي",
+    "سي",
+    "سي بلاص بلاص",
+    "سي شارب",
+    "فيجوال بيسك",
+    "كوتلن",
+    "سويفت",
+    "دارت",
+    "باسكال",
+    "فورتران"
+  ],
+  "البلدان العربية": [
+    "الاردن",
+    "الإمارات العربية المتحدة",
+    "البحرين",
+    "الجزائر",
+    "السودان",
+    "الصومال",
+    "العراق",
+    "المغرب",
+    "تونس",
+    "جيبوتي",
+    "سوريا",
+    "عمان",
+    "فلسطين",
+    "قطر",
+    "لبنان",
+    "ليبيا",
+    "موريتانيا",
+    "السعودية",
+    "الكويت",
+    "اليمن",
+    "جزر القمر",
+    "مصر"
+  ],
+
+  "شركات الموبايل": [
+    "سامسونغ",
+    "أبل",
+    "شاومي",
+    "هواوي",
+    "أنفينكس",
+    "أوبو",
+    "فيفو",
+    "سوني"
+  ],
+
+  "المدن السورية": [
+    "حمص",
+    "حلب",
+    "دمشق",
+    "حماة",
+    "اللاذقية",
+    "طرطوس",
+    "درعا",
+    "إدلب",
+    "السويداء",
+    "القنيطرة",
+    "دير الزور",
+    "الرقة",
+    "الحسكة"
+  ]
+}
+}
